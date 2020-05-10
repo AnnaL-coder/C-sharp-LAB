@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\bin\Debug\Task 5.exe
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\bin\Debug\Task 5.pdb
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\obj\Debug\Task 5.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\obj\Debug\Task 5.exe
+C:\Users\Home\Desktop\2 курс 2 семестр\C# labs\LAB 7\Task 5\Task 5\obj\Debug\Task 5.pdb

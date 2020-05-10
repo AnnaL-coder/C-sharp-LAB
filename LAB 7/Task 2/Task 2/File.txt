@@ -1,0 +1,3 @@
+﻿Ivanov Ivan Ivanovich 3
+Ivanov Ivan Petrovich 50
+Ivanov Ivan Arturovich 10

@@ -1,0 +1,14 @@
+C:\Users\deus\source\repos\kr2\kr2\obj\Debug\kr2.csprojAssemblyReference.cache
+C:\Users\deus\source\repos\kr2\kr2\obj\Debug\kr2.csproj.CoreCompileInputs.cache
+C:\Users\deus\source\repos\kr2\kr2\bin\Debug\kr2.exe.config
+C:\Users\deus\source\repos\kr2\kr2\bin\Debug\kr2.exe
+C:\Users\deus\source\repos\kr2\kr2\bin\Debug\kr2.pdb
+C:\Users\deus\source\repos\kr2\kr2\obj\Debug\kr2.exe
+C:\Users\deus\source\repos\kr2\kr2\obj\Debug\kr2.pdb
+C:\Users\Home\Desktop\kr2\kr2\bin\Debug\kr2.exe.config
+C:\Users\Home\Desktop\kr2\kr2\bin\Debug\kr2.exe
+C:\Users\Home\Desktop\kr2\kr2\bin\Debug\kr2.pdb
+C:\Users\Home\Desktop\kr2\kr2\obj\Debug\kr2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\kr2\kr2\obj\Debug\kr2.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\kr2\kr2\obj\Debug\kr2.exe
+C:\Users\Home\Desktop\kr2\kr2\obj\Debug\kr2.pdb
